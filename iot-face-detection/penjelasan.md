@@ -84,9 +84,3 @@ Proyek ini dibuat untuk tugas akhir mahasiswa Teknik Instrumentasi Universitas B
 
 ---
 
-## 📎 Dokumentasi Tambahan
-
-📽️ Video demonstrasi: *Tersedia*  
-📲 Dashboard Blynk: *Disesuaikan dengan user interface proyek*
-
----
