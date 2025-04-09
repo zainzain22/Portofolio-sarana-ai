@@ -13,12 +13,12 @@ Here are several projects I've worked on, combining skills in App Development, M
    - Visualisasi & analisis data untuk insight bisnis
    - [📂 Lihat Detail](./data-analyst-project/penjelasan.md)
 
-3. **IoT CNN Face Detection**
+3. **IoT CNN Face Detection - Tugas Akhir Teknik Instrumentasi**
    - Alat deteksi wajah berbasis Edge Impulse & CNN
    - [📂 Lihat Detail](./iot-face-detection/penjelasan.md)
 
-4. **XAMPP Website – Database Pasien**
-   - Frontend + Backend data pasien, auto-fill tensimeter
+4. **XAMPP Website Database Pasien - Pengabdian Masyarakat Hibah Doktor Lektor Kepala 2023**
+   - Frontend + Backend data pasien
    - [📂 Lihat Detail](./xampp-patient-db/penjelasan.md)
 
 ## 🙌 Thank you for reviewing!
