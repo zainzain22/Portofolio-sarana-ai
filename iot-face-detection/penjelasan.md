@@ -61,12 +61,8 @@ Sistem ini terhubung ke aplikasi Blynk, memungkinkan:
 
 ---
 
-## 📁 Struktur File Proyek
-
-- `face_detection_esp32.ino` – Kode utama ESP32-CAM + integrasi Blynk
-- `model.ei` – Model CNN dari Edge Impulse *(jika diperlukan)*
-- `video_demo.mp4` – Video demo implementasi sistem
-- `README.md` – Penjelasan proyek ini
+## 📁 Dokumentasi
+(https://drive.google.com/drive/folders/1p9R5Aujwbfeif7EdRT6GwuX69QDBakJw?usp=sharing)
 
 ---
 
