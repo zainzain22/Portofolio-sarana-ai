@@ -36,9 +36,6 @@ Website ini dikembangkan menggunakan **PHP** dan **MySQL** serta mendukung input
 - 🔍 **Pencarian dan filter berdasarkan nama/RFID**
 
 ---
-## 📎 Link Repo Asli
-🔗 https://github.com/namakamu/checkmate
----
 
 ## 🔧 Cara Kerja Sistem
 
