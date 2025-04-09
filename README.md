@@ -9,7 +9,7 @@ Here are several projects I've worked on, combining skills in App Development, M
    - Absensi, mood tracker, dan pendeteksi dasi seragam siswa
    - [📂 Lihat Detail](./checkmate-capstone/penjelasan.md)
 
-2. **Data Analyst Project for Bike Rental Analysis**
+2. **Data Analyst Project - Dicoding Project**
    - Visualisasi & analisis data untuk insight bisnis
    - [📂 Lihat Detail](./data-analyst-project/penjelasan.md)
 
